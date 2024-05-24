@@ -1,2 +1,2 @@
-print("Hello, world!(bugfixed)")
+print("HELLO, WORLD!")
 print("Ghazi Jmail, 1073244")
